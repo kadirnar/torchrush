@@ -1,0 +1,1 @@
+{"versions": {"datasets": "2.7.1", "torchrush": "0.0.1.dev1", "pytorch": "1.12.1+cu102", "pytorch-lightning": "1.8.3.post1"}, "model": "LeNet", "input_size": [1, 28, 28], "embedding_size": 79, "criterion": {"name": "str"}, "optimizer": {"name": "str"}}
