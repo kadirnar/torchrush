@@ -10,7 +10,13 @@ Yet another framework built on top of PyTorch that is designed with a high speed
 Install with
 
 ```shell
-git clone git@github.com:devrimcavusoglu/torchrush-dev.git
+pip install git+https://github.com/devrimcavusoglu/torchrush.git
+```
+
+for development
+
+```shell
+git clone https://github.com/devrimcavusoglu/torchrush.git
 cd torchrush-dev
 pip install -e .[dev]
 ```
